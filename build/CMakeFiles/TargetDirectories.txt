@@ -1,0 +1,11 @@
+/workspaces/ex1-sort-JaoVitorGomes/build/CMakeFiles/rebuild_cache.dir
+/workspaces/ex1-sort-JaoVitorGomes/build/CMakeFiles/edit_cache.dir
+/workspaces/ex1-sort-JaoVitorGomes/build/CMakeFiles/test.dir
+/workspaces/ex1-sort-JaoVitorGomes/build/CMakeFiles/sort.dir
+/workspaces/ex1-sort-JaoVitorGomes/build/tests/CMakeFiles/rebuild_cache.dir
+/workspaces/ex1-sort-JaoVitorGomes/build/tests/CMakeFiles/edit_cache.dir
+/workspaces/ex1-sort-JaoVitorGomes/build/tests/CMakeFiles/test.dir
+/workspaces/ex1-sort-JaoVitorGomes/build/tests/CMakeFiles/test4.dir
+/workspaces/ex1-sort-JaoVitorGomes/build/tests/CMakeFiles/test3.dir
+/workspaces/ex1-sort-JaoVitorGomes/build/tests/CMakeFiles/test2.dir
+/workspaces/ex1-sort-JaoVitorGomes/build/tests/CMakeFiles/test1.dir

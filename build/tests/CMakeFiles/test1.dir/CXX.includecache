@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/sort.h
+vector
+-
+
+../include/tools.h
+iostream
+-
+chrono
+-
+vector
+-
+
+/workspaces/ex1-sort-JaoVitorGomes/tests/test1.cc
+iostream
+-
+fstream
+-
+string
+-
+cstring
+-
+sort.h
+/workspaces/ex1-sort-JaoVitorGomes/tests/sort.h
+tools.h
+/workspaces/ex1-sort-JaoVitorGomes/tests/tools.h
+

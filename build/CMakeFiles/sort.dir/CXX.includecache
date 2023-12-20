@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/ex1-sort-JaoVitorGomes/src/insertionsort.cpp
+iostream
+-
+
+/workspaces/ex1-sort-JaoVitorGomes/src/mergesort.cpp
+iostream
+-
+
